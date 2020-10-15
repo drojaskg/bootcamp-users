@@ -1,9 +1,10 @@
 const http = require('http');
-const hostname = '127.0.0.1';
 const port = 3000;
 const server = http.createServer();
 const url = require('url');
 var data = require('./data');
+
+const PORT = process.env.PORT || 3000;
 
 server.on('request', async (req, res) => {
     res.statusCode = 200;
@@ -19,6 +20,6 @@ server.on('request', async (req, res) => {
     res.end(JSON.stringify(user));
 });
 
-server.listen(port, () => {
-    console.log(`Server running at http://${hostname}:${port}/`);
+server.listen(PORT, () => {
+    console.log(`Server running`);
 });
