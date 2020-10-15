@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
 
     let user = data.getUser(req.query.email, req.query.password);
 
-    res.json(user)
+    res.status(200).json(user)
 })
 
 app.listen(PORT, () => {
