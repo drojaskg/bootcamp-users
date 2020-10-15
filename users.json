@@ -1,5 +1,7 @@
 [
     {
+        "id": "bootcamp20201",
+        "token": "jasdghjasdgaskjdgakjsgdkajsgda",
         "name": "Aarón Gutiérrez",
         "email": "agutierrez@gmail.com",
         "password": "aaron123",
@@ -18,6 +20,8 @@
         }
     },
     {
+        "id": "bootcamp20202",
+        "token": "jasdghjasdgaskjdgakjsgdkajsgdaasdasd",
         "name": "Cristian Andrés Alvarado Oviedo",
         "email": "calvarado@gmail.com",
         "password": "123456789",
@@ -36,6 +40,8 @@
         }
     },
     {
+        "id": "bootcamp20203",
+        "token": "jasdghjasdd32e2dgaskjdgakjsgdkajsgda",
         "name": "Denisse Alfaro",
         "email": "dalfaro@gmail.com",
         "password": "qwerty",
@@ -54,6 +60,8 @@
         }
     },
     {
+        "id": "bootcamp20204",
+        "token": "jasdghjasdgaskjdfsfdgakjsgdkajsgda",
         "name": "Harry Valverde Murillo",
         "email": "hvalverde@gmail.com",
         "password": "qazwsx",
@@ -72,6 +80,8 @@
         }
     },
     {
+        "id": "bootcamp20205",
+        "token": "jasdghjasdgaswerwr2kjdgakjsgdkajsgda",
         "name": "Jonathan Calvo Obando",
         "email": "jcalvo@gmail.com",
         "password": "02468",
@@ -90,6 +100,8 @@
         }
     },
     {
+        "id": "bootcamp20206",
+        "token": "jasdghjasdgaskjdgakjs2342gdkajsgda",
         "name": "Jonathan Jimenez Zambrana",
         "email": "jjimenez@gmail.com",
         "password": "jimenez",
@@ -108,6 +120,8 @@
         }
     },
     {
+        "id": "bootcamp20207",
+        "token": "jasdghjasdgaskjd34r3gakjsgdkajsgda",
         "name": "José Ricardo Chacón Rodríguez",
         "email": "jchacon@gmail.com",
         "password": "13579",
@@ -126,6 +140,8 @@
         }
     },
     {
+        "id": "bootcamp20208",
+        "token": "jasdghjasdgaskwerw234jdgakjsgdkajsgda",
         "name": "Luis Reyes",
         "email": "lreyes@gmail.com",
         "password": "rusia",
@@ -144,6 +160,8 @@
         }
     },
     {
+        "id": "bootcamp20209",
+        "token": "jasdghjasdg342342askjdgakjsgdkajsgda",
         "name": "María José Rivera",
         "email": "mrivera@gmail.com",
         "password": "maria",
@@ -162,6 +180,8 @@
         }
     },
     {
+        "id": "bootcamp202010",
+        "token": "jasdghjasdgaskjdgakjsgdedwoid9kajsgda",
         "name": "Natali Saenz",
         "email": "nsaenz@gmail.com",
         "password": "password",
@@ -180,6 +200,8 @@
         }
     },
     {
+        "id": "bootcamp202011",
+        "token": "jasdghjasdgaskjdgakjsgddwlmdw0kajsgda",
         "name": "Raúl Gerardo González Calvo",
         "email": "rgerardo@gmail.com",
         "password": "rgerardo",
@@ -198,6 +220,8 @@
         }
     },
     {
+        "id": "bootcamp202012",
+        "token": "jasdghjasdgaskj324ij0dgakjsgdkajsgda",
         "name": "Sergio Andrey Alfaro Blanco",
         "email": "salfaro@gmail.com",
         "password": "test",
