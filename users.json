@@ -3,72 +3,216 @@
         "name": "Aarón Gutiérrez",
         "email": "agutierrez@gmail.com",
         "password": "aaron123",
-        "country": "Costa Rica"
+        "country": "Costa Rica",
+        "hasCouple": true,
+        "years": 20,
+        "smoke": true,
+        "alcohol": true,
+        "tattos": 1,
+        "salary": "1400000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "blue",
+            "food": "Chifrijo",
+            "music": "funk"
+        }
     },
     {
         "name": "Cristian Andrés Alvarado Oviedo",
         "email": "calvarado@gmail.com",
         "password": "123456789",
-        "country": "Brasil"
+        "country": "Brasil",
+        "hasCouple": false,
+        "years": 21,
+        "smoke": false,
+        "alcohol": true,
+        "tattos": 0,
+        "salary": "4000000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "red",
+            "food": "Piangua",
+            "music": "Tradicional Costarricense"
+        }
     },
     {
         "name": "Denisse Alfaro",
         "email": "dalfaro@gmail.com",
         "password": "qwerty",
-        "country": "Argentina"
+        "country": "Argentina",
+        "hasCouple": true,
+        "years": 22,
+        "smoke": true,
+        "alcohol": false,
+        "tattos": 2,
+        "salary": "1800000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "yellow",
+            "food": "Pati",
+            "music": "lowercase"
+        }
     },
     {
         "name": "Harry Valverde Murillo",
         "email": "hvalverde@gmail.com",
         "password": "qazwsx",
-        "country": "Dinamarca"
+        "country": "Dinamarca",
+        "hasCouple": true,
+        "years": 23,
+        "smoke": false,
+        "alcohol": false,
+        "tattos": 14,
+        "salary": "6000000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "pink",
+            "food": "Ceviche",
+            "music": "Glitch hop"
+        }
     },
     {
         "name": "Jonathan Calvo Obando",
         "email": "jcalvo@gmail.com",
         "password": "02468",
-        "country": "Italia"
+        "country": "Italia",
+        "hasCouple": false,
+        "years": 20,
+        "smoke": false,
+        "alcohol": false,
+        "tattos": 0,
+        "salary": "1600000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "green",
+            "food": "Pan cacero",
+            "music": "Folktronica"
+        }
     },
     {
         "name": "Jonathan Jimenez Zambrana",
         "email": "jjimenez@gmail.com",
         "password": "jimenez",
-        "country": "Rusia"
+        "country": "Rusia",
+        "hasCouple": true,
+        "years": 21,
+        "smoke": true,
+        "alcohol": false,
+        "tattos": 5,
+        "salary": "700000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "brown",
+            "food": "Rice & beans",
+            "music": "Black MIDI"
+        }
     },
     {
         "name": "José Ricardo Chacón Rodríguez",
         "email": "jchacon@gmail.com",
         "password": "13579",
-        "country": "Tailandia"
+        "country": "Tailandia",
+        "hasCouple": false,
+        "years": 23,
+        "smoke": false,
+        "alcohol": true,
+        "tattos": 0,
+        "salary": "5000000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "cyan",
+            "food": "Tortilla de queso",
+            "music": "Vaporwave"
+        }
     },
     {
         "name": "Luis Reyes",
         "email": "lreyes@gmail.com",
         "password": "rusia",
-        "country": "Rusia"
+        "country": "Rusia",
+        "hasCouple": true,
+        "years": 24,
+        "smoke": true,
+        "alcohol": true,
+        "tattos": 0,
+        "salary": "8000000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "purple",
+            "food": "Chorreada",
+            "music": "Cloud rap"
+        }
     },
     {
         "name": "María José Rivera",
         "email": "mrivera@gmail.com",
         "password": "maria",
-        "country": "China"
+        "country": "China",
+        "hasCouple": true,
+        "years": 18,
+        "smoke": true,
+        "alcohol": true,
+        "tattos": 10,
+        "salary": "8000000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "black",
+            "food": "Vigoron",
+            "music": "Simpsonwave"
+        }
     },
     {
         "name": "Natali Saenz",
         "email": "nsaenz@gmail.com",
         "password": "password",
-        "country": "España"
+        "country": "España",
+        "hasCouple": false,
+        "years": 21,
+        "smoke": false,
+        "alcohol": false,
+        "tattos": 0,
+        "salary": "9000000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "Magenta",
+            "food": "Rondón",
+            "music": "Hypnagogic pop"
+        }
     },
     {
         "name": "Raúl Gerardo González Calvo",
         "email": "rgerardo@gmail.com",
         "password": "rgerardo",
-        "country": "Japón"
+        "country": "Japón",
+        "hasCouple": true,
+        "years": 22,
+        "smoke": false,
+        "alcohol": true,
+        "tattos": 1,
+        "salary": "23000000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "Aqua",
+            "food": "Pan con queso",
+            "music": "Witch house"
+        }
     },
     {
         "name": "Sergio Andrey Alfaro Blanco",
         "email": "salfaro@gmail.com",
         "password": "test",
-        "country": "Dubai"
+        "country": "Dubai",
+        "hasCouple": false,
+        "years": 24,
+        "smoke": false,
+        "alcohol": true,
+        "tattos": 0,
+        "salary": "2200000",
+        "salaryCurrency" : "$",
+        "favorite": {
+            "color": "lime",
+            "food": "Atún",
+            "music": "Hip-Hop"
+        }
     }
 ]
