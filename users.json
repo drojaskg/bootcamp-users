@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Aarón Gutiérrez",
+        "email": "agutierrez@gmail.com",
+        "password": "aaron123",
+        "country": "Costa Rica"
+    },
+    {
+        "name": "Cristian Andrés Alvarado Oviedo",
+        "email": "calvarado@gmail.com",
+        "password": "123456789",
+        "country": "Brasil"
+    },
+    {
+        "name": "Denisse Alfaro",
+        "email": "dalfaro@gmail.com",
+        "password": "qwerty",
+        "country": "Argentina"
+    },
+    {
+        "name": "Harry Valverde Murillo",
+        "email": "hvalverde@gmail.com",
+        "password": "qazwsx",
+        "country": "Dinamarca"
+    },
+    {
+        "name": "Jonathan Calvo Obando",
+        "email": "jcalvo@gmail.com",
+        "password": "02468",
+        "country": "Italia"
+    },
+    {
+        "name": "Jonathan Jimenez Zambrana",
+        "email": "jjimenez@gmail.com",
+        "password": "jimenez",
+        "country": "Rusia"
+    },
+    {
+        "name": "José Ricardo Chacón Rodríguez",
+        "email": "jchacon@gmail.com",
+        "password": "13579",
+        "country": "Tailandia"
+    },
+    {
+        "name": "Luis Reyes",
+        "email": "lreyes@gmail.com",
+        "password": "rusia",
+        "country": "Rusia"
+    },
+    {
+        "name": "María José Rivera",
+        "email": "mrivera@gmail.com",
+        "password": "maria",
+        "country": "China"
+    },
+    {
+        "name": "Natali Saenz",
+        "email": "nsaenz@gmail.com",
+        "password": "password",
+        "country": "España"
+    },
+    {
+        "name": "Raúl Gerardo González Calvo",
+        "email": "rgerardo@gmail.com",
+        "password": "rgerardo",
+        "country": "Japón"
+    },
+    {
+        "name": "Sergio Andrey Alfaro Blanco",
+        "email": "salfaro@gmail.com",
+        "password": "test",
+        "country": "Dubai"
+    }
+]
