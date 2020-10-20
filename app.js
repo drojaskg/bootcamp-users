@@ -31,6 +31,39 @@ app.get('/video', (req, res) => {
     res.status(200).json(video)
 })
 
+// Aaron APIs
+app.get('/attackers', (req, res) => {
+    console.log("Aaron: Requested attackers");
+
+    let players = data.getSoccerPlayers('attackers');
+
+    res.status(200).json(players);
+})
+
+app.get('/defenders', (req, res) => {
+    console.log("Aaron: Requested defenders");
+
+    let players = data.getSoccerPlayers('defenders');
+
+    res.status(200).json(players);
+})
+
+app.get('/goalkeepers', (req, res) => {
+    console.log("Aaron: Requested goalkeepers");
+
+    let players = data.getSoccerPlayers('goalkeepers');
+
+    res.status(200).json(players);
+})
+
+app.get('/midfielders', (req, res) => {
+    console.log("Aaron: Requested midfielders");
+
+    let players = data.getSoccerPlayers('midfielders');
+
+    res.status(200).json(players);
+})
+
 app.listen(PORT, () => {
     console.log(`Example app listening at http://localhost:${PORT}`)
 })

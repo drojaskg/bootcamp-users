@@ -1,0 +1,79 @@
+[
+    {
+        "id": 18,
+        "name": "Kevin De Bruyne",
+        "rating": 91,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/kevin-de-bruyne_13310_248-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 19,
+        "name": "Casemiro",
+        "rating": 89,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/carlos-henrique-casimiro_9308_55-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 20,
+        "name": "Joshua Kimmich",
+        "rating": 88,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/joshua-kimmich_185246_152-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 21,
+        "name": "Toni Kroos",
+        "rating": 88,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/toni-kroos_4017_55-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 22,
+        "name": "N'Golo Kante",
+        "rating": 88,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/n'golo-kante_159566_20-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 23,
+        "name": "Luka Modric",
+        "rating": 87,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/luka-modric_1144_55-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 24,
+        "name": "Fabinho",
+        "rating": 87,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/fabio-henrique-tavares_120900_247-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 25,
+        "name": "Sergio Busquets",
+        "rating": 87,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/sergio-busquets-i-burgos_2291_56-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 26,
+        "name": "Thomas Muller",
+        "rating": 86,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/thomas-muller_3554_152-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 27,
+        "name": "Jordan Henderson",
+        "rating": 86,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/jordan-brian-henderson_5886_247-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 28,
+        "name": "Thiago Alcantara",
+        "rating": 85,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/thiago-alcantara-do-nascimento-5242-ub-800.png",
+        "selected": false
+    }
+]

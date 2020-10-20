@@ -1,0 +1,86 @@
+[
+    {
+        "id": 6,
+        "name": "Virgil van Dijk",
+        "rating": 90,
+        "image": "https://www.cleanpng.net/public/uploads/thumbnail/virgil-van-dijk-ab-png-image-with-transparent-background-11581540113htakbiuf0n.png",
+        "selected": false
+    },
+    {
+        "id": 7,
+        "name": "Sergio Ramos",
+        "rating": 89,
+        "image": "https://www.cleanpng.net/files/preview/960x960/sergio-ramos-ad-png-image-with-transparent-background-11580829081lwes1cozqqfkzllwd3krkurwix6qaa2a4avtuhpcggeospr1rysmwroys7yl6f0cqnkv8tk1yh5thy1tqkuwikvlbwgjo37z8suv.png",
+        "selected": false
+    },
+    {
+        "id": 8,
+        "name": "Giorgio Chiellini",
+        "rating": 89,
+        "image": "https://www.cleanpng.net/public/uploads/thumbnail/giorgio-chiellini-aa-png-image-with-transparent-background-11581713849g3cdg8btm9.png",
+        "selected": false
+    },
+    {
+        "id": 9,
+        "name": " Gerard Piqué",
+        "rating": 88,
+        "image": "https://www.cleanpng.net/files/preview/960x960/diego-godin-aa-png-image-with-transparent-background-11581568867qjqcnuam6vzbybssyoitj6fcc84hopxvm5tcfhbycr5elqmtk4bzoiluxjskbrqxagvw93at5b1wjfeimyx9mrjy50vpug8r4zpx.png",
+        "selected": false
+    },
+    {
+        "id": 10,
+        "name": "Jordi Alba",
+        "rating": 87,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/jordi-alba-ramos_6832_56-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 11,
+        "name": "Mats Hummels",
+        "rating": 87,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/mats-hummels_4597_183-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 12,
+        "name": "Toby Alderweireld",
+        "rating": 87,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/toby-alderweireld_4288_67-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 13,
+        "name": "Aymeric Laporte",
+        "rating": 87,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/aymeric-laporte_14257_248-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 14,
+        "name": "Leonardo Bonucci",
+        "rating": 86,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/leonardo-bonucci_3781_52-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 15,
+        "name": "Marcelo ",
+        "rating": 85,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/marcelo-vieira-da-silva-junior_6801_55-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 16,
+        "name": "Andrew Robertson",
+        "rating": 85,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/andrew-robertson_157248_247-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 17,
+        "name": "Raphaël Varane",
+        "rating": 85,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/raphael-varane_7270_55-ub-800.png",
+        "selected": false
+    }
+]

@@ -1,5 +1,11 @@
-var Users = require('./users.json');
-var Videos = require('./videos.json');
+var Users = require('./data/users.json');
+var Videos = require('./data/videos.json');
+
+// Aaron
+var Attackers = require('./data/aaron/attackers.json');
+var Defenders = require('./data/aaron/defenders.json');
+var Goalkeepers = require('./data/aaron/goalkeepers.json');
+var Midfielders = require('./data/aaron/midfielders.json');
 
 function getUser(email, password) {
     if (!email || !password) {
@@ -43,8 +49,30 @@ function getVideos(search) {
     return {status: 200, videos}
 }
 
+function getSoccerPlayers(type) {
+
+    if (type === 'attackers') {
+        return {status: 200, players: Attackers}
+    }
+
+    if (type === 'defenders') {
+        return {status: 200, players: Defenders}
+    }
+
+    if (type === 'goalkeepers') {
+        return {status: 200, players: Goalkeepers}
+    }
+
+    if (type === 'midfielders') {
+        return {status: 200, players: Midfielders}
+    }
+
+    return {status: 400, message: "Soccer players not found!"}
+}
+
 module.exports = {
     getUser,
     getVideo,
-    getVideos
+    getVideos,
+    getSoccerPlayers
 };

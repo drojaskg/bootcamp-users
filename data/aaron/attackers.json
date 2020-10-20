@@ -1,0 +1,51 @@
+[
+    {
+        "id": 29,
+        "name": "Messi",
+        "rating": 94,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/lionel-andres-messi_1548_56-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 30,
+        "name": "Cristiano Ronaldo",
+        "rating": 93,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/cristiano-ronaldo-dos-santos-aveiro_834_52-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 31,
+        "name": "Neymar Jr",
+        "rating": 92,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/neymar-da-silva-santos-junior_9732_212-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 32,
+        "name": "Robert Lewandowski",
+        "rating": 89,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/robert-lewandowski_1744_152-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 33,
+        "name": "Kylian Mbappé ",
+        "rating": 89,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/kylian-mbappe_258602_212-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 34,
+        "name": "Kylian Mbappé ",
+        "rating": 89,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/kylian-mbappe_258602_212-ub-800.png",
+        "selected": false
+    },
+    {
+        "id": 35,
+        "name": "Mohamed Salah",
+        "rating": 90,
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/mohamed-salah_16425_247-ub-800.png",
+        "selected": false
+    }
+]

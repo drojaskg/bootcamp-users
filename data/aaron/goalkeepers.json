@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Manuel Neuer",
+        "rating": 89,
+        "image": "https://www.pngarts.com/files/5/Manuel-Neuer-PNG-Image-Transparent-Background.png",
+        "selected": false
+    },
+    {
+        "id": 2,
+        "name": "Marc-André ter Stegen",
+        "rating": 90,
+        "image": "https://www.cleanpng.net/public/uploads/thumbnail/marc-andre-ter-stegen-ax-png-image-with-transparent-background-11581633136rb9pixotni.png",
+        "selected": false
+    },
+    {
+        "id": 3,
+        "name": "Hugo Lloris",
+        "rating": 87,
+        "image": "https://www.cleanpng.net/files/preview/800x800/hugo-lloris-aa-png-image-with-transparent-background-11581618707aewaxr2c2o97d6l31gvkjjuxpbqgvlsniwcrem9hp0cegv5eif2vhba0xwe3u0sxesnuv0h6aqvcoubudnadfonkf40l7no3g5vy.png",
+        "selected": false
+    },
+    {
+        "id": 4,
+        "name": "Keylor Navas",
+        "rating": 87,
+        "image": "https://futhead.cursecdn.com/static/img/20/players_alt/p134410769.png",
+        "selected": false
+    },
+    {
+        "id": 5,
+        "name": "Alisson Becker",
+        "rating": 89,
+        "image": "https://www.cleanpng.net/files/preview/960x960/alisson-becker-ah-png-image-with-transparent-background-11581620611kchfjegwuehmwis6iqj7z1mnlikollbu4grade82n1wwaybeixyf1j5sdjfyasg8cgtryzlieqsopvk0f9e8llpclbnwaxi2dldd.png",
+        "selected": false
+    }
+]
