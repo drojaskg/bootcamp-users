@@ -7,6 +7,9 @@ var Defenders = require('./data/aaron/defenders.json');
 var Goalkeepers = require('./data/aaron/goalkeepers.json');
 var Midfielders = require('./data/aaron/midfielders.json');
 
+// Natali
+var Tutorials = require('./data/natali/videos.json');
+
 function getUser(email, password) {
     if (!email || !password) {
         return {status: 400, message: "Invalid data!"}
@@ -37,20 +40,25 @@ function getVideo(id) {
 
 const getVideoShortData = (video) => ({id: video.id, title: video.title, description: video.description, poster: video.poster});
 
-function getVideos(search) {
-    if (!search || search === 'undefined') {
-        return {status: 200, videos: Videos.map(v => getVideoShortData(v))}
+function getVideos(type, search) {
+    var isYoutube = type === 'youtube';
+
+    var videos = Tutorials;
+
+    if (isYoutube) {
+        videos = Videos.map(v => getVideoShortData(v));
     }
+    
+    if (search && search !== 'undefined') {
+        search = search.toLowerCase();
 
-    search = search.toLowerCase();
-
-    const videos = Videos.filter(v => v.title.toLowerCase().includes(search) || v.description.toLowerCase().includes(search)).map(v => getVideoShortData(v));
+        videos = videos.filter(v => v.title.toLowerCase().includes(search) || v.description.toLowerCase().includes(search));
+    }
 
     return {status: 200, videos}
 }
 
 function getSoccerPlayers(type) {
-
     if (type === 'attackers') {
         return {status: 200, players: Attackers}
     }

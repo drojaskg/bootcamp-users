@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 var data = require('./data');
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 app.use(cors());
 
@@ -18,7 +18,15 @@ app.get('/', (req, res) => {
 app.get('/videos', (req, res) => {
     console.log(req.query);
 
-    let videos = data.getVideos(req.query.search);
+    let videos = data.getVideos('youtube', req.query.search);
+
+    res.status(200).json(videos)
+})
+
+app.get('/tutorials', (req, res) => {
+    console.log("Aaron: Requested attackers - Search - " + req.query);
+
+    let videos = data.getVideos('tutorials', req.query.search);
 
     res.status(200).json(videos)
 })
