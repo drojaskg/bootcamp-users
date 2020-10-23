@@ -23,20 +23,21 @@ app.get('/videos', (req, res) => {
     res.status(200).json(videos)
 })
 
-app.get('/tutorials', (req, res) => {
-    console.log("Aaron: Requested attackers - Search - " + req.query);
-
-    let videos = data.getVideos('tutorials', req.query.search);
-
-    res.status(200).json(videos)
-})
-
 app.get('/video', (req, res) => {
     console.log(req.query);
 
     let video = data.getVideo(req.query.id);
 
     res.status(200).json(video)
+})
+
+// Natali API
+app.get('/tutorials', (req, res) => {
+    console.log("Aaron: Requested attackers - Search - " + req.query);
+
+    let videos = data.getVideos('tutorials', req.query.search);
+
+    res.status(200).json(videos)
 })
 
 // Aaron APIs

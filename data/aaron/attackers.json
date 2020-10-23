@@ -29,20 +29,13 @@
     },
     {
         "id": 33,
-        "name": "Kylian Mbappé ",
+        "name": "Kylian Mbappé",
         "rating": 89,
         "image": "https://1vs1-7f65.kxcdn.com/img/players/players/kylian-mbappe_258602_212-ub-800.png",
         "selected": false
     },
     {
         "id": 34,
-        "name": "Kylian Mbappé ",
-        "rating": 89,
-        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/kylian-mbappe_258602_212-ub-800.png",
-        "selected": false
-    },
-    {
-        "id": 35,
         "name": "Mohamed Salah",
         "rating": 90,
         "image": "https://1vs1-7f65.kxcdn.com/img/players/players/mohamed-salah_16425_247-ub-800.png",

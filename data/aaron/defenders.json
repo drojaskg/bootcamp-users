@@ -3,28 +3,28 @@
         "id": 6,
         "name": "Virgil van Dijk",
         "rating": 90,
-        "image": "https://www.cleanpng.net/public/uploads/thumbnail/virgil-van-dijk-ab-png-image-with-transparent-background-11581540113htakbiuf0n.png",
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/virgil-dijk_12644_247-ub-800.png",
         "selected": false
     },
     {
         "id": 7,
         "name": "Sergio Ramos",
         "rating": 89,
-        "image": "https://www.cleanpng.net/files/preview/960x960/sergio-ramos-ad-png-image-with-transparent-background-11580829081lwes1cozqqfkzllwd3krkurwix6qaa2a4avtuhpcggeospr1rysmwroys7yl6f0cqnkv8tk1yh5thy1tqkuwikvlbwgjo37z8suv.png",
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/sergio-ramos-garcia_973_55-ub-800.png",
         "selected": false
     },
     {
         "id": 8,
         "name": "Giorgio Chiellini",
         "rating": 89,
-        "image": "https://www.cleanpng.net/public/uploads/thumbnail/giorgio-chiellini-aa-png-image-with-transparent-background-11581713849g3cdg8btm9.png",
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/players/giorgio-chiellini_1001_52-ub-800.png",
         "selected": false
     },
     {
         "id": 9,
-        "name": " Gerard Piqué",
+        "name": "Diego Godín",
         "rating": 88,
-        "image": "https://www.cleanpng.net/files/preview/960x960/diego-godin-aa-png-image-with-transparent-background-11581568867qjqcnuam6vzbybssyoitj6fcc84hopxvm5tcfhbycr5elqmtk4bzoiluxjskbrqxagvw93at5b1wjfeimyx9mrjy50vpug8r4zpx.png",
+        "image": "https://1vs1-7f65.kxcdn.com/img/players/diego-roberto-godin-leal-3898-ub-800.png",
         "selected": false
     },
     {
@@ -64,7 +64,7 @@
     },
     {
         "id": 15,
-        "name": "Marcelo ",
+        "name": "Marcelo",
         "rating": 85,
         "image": "https://1vs1-7f65.kxcdn.com/img/players/players/marcelo-vieira-da-silva-junior_6801_55-ub-800.png",
         "selected": false
